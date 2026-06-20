@@ -1,6 +1,6 @@
 # Step-Level Observability for ML Pipelines
 
-> Companion code for: **You Can't Debug What You Can't See — Adding Step-Level Observability to Your ML Pipeline**
+> Companion code for: **[You Can't Debug What You Can't See — Adding Step-Level Observability to Your ML Pipeline (Part 4)](https://youtu.be/0-SEzeCT9qE)**  
 > Part of the [Debugging ML in Production](https://www.youtube.com/playlist?list=PLOszX3Fd4bgccKUnq6cBaZbQ3V7245isU) series on YouTube.
 
 ---
@@ -95,8 +95,8 @@ This repo is part of the **Debugging ML in Production** series:
 |-------|------|
 | Part 1 — 5 Failure Modes (Theory) | [Watch](https://youtu.be/GsxQQvXGzDs) |
 | Part 2 — Failure Modes 4 & 5 (Theory) | [Watch](https://youtu.be/j_IjpiZE_4k) |
-| Video 3 — Data Freshness Validator | [Watch](https://youtu.be/xW1xgx28D_w) |
-| **Video 4 — Step-Level Observability (this repo)** | Coming June 2026 |
+| Part 3 — Data Freshness Validator | [Watch](https://youtu.be/xW1xgx28D_w) |
+| **Part 4 — Step-Level Observability (this repo)** | [Watch](https://youtu.be/0-SEzeCT9qE) |
 
 ---
 
