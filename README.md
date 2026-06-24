@@ -1,6 +1,6 @@
 # Step-Level Observability for ML Pipelines
 
-> Companion code for: **You Can't Debug What You Can't See — Adding Step-Level Observability to Your ML Pipeline**
+> Companion code for: **[You Can't Debug What You Can't See — Adding Step-Level Observability to Your ML Pipeline (Part 4)](https://youtu.be/0-SEzeCT9qE)**  
 > Part of the [Debugging ML in Production](https://www.youtube.com/playlist?list=PLOszX3Fd4bgccKUnq6cBaZbQ3V7245isU) series on YouTube.
 
 ---
